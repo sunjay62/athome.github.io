@@ -1,0 +1,15 @@
+body {
+  height: 800px;
+}
+
+.table-responsive {
+  margin-top: -200px;
+}
+
+.carousel {
+  margin-top: 80px;
+}
+
+table {
+  position: absolute;
+}
